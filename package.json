@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "vite"
+  },
+  "devDependencies": {
+    "vite": "^2.3.8",
+    "vite-plugin-html": "^2.0.7"
+  },
+  "license": "MIT"
+}
